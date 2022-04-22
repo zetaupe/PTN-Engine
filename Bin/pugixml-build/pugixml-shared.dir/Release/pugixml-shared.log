@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-src/CMakeLists.txt
+  pugixml.cpp
+     Création de la bibliothèque D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/lib/Release/pugixml.lib et de l'objet D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/lib/Release/pugixml.exp
+  pugixml-shared.vcxproj -> D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\bin\Release\pugixml.dll

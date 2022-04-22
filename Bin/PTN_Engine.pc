@@ -1,0 +1,9 @@
+libdir=
+includedir=
+
+Name: PTN_Engine
+Description: PTN Engine
+Version: 
+URL: https://github.com/vldtecno/PTN-Engine
+Libs: -L${libdir} -lPTN_Engine 
+Cflags: -I${includedir} 

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/pugixml"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/8f871a206e45c06215a60b2628419cb2/pugixml.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/76674d00ad792611361519e370ff55de/pugixml-complete.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-build.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-configure.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-download.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-install.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-mkdir.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-patch.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-test.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pugixml"
+		],
+		"name" : "pugixml"
+	}
+}

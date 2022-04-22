@@ -1,0 +1,17 @@
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/CMakeFiles/INSTALL.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/CMakeFiles/ALL_BUILD.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/CMakeFiles/ZERO_CHECK.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/PTN_Engine/CMakeFiles/PTN_Engine.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/PTN_Engine/CMakeFiles/INSTALL.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-build/CMakeFiles/pugixml-shared.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-build/CMakeFiles/INSTALL.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-build/CMakeFiles/ALL_BUILD.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/ImportExport/CMakeFiles/ImportExport.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/ImportExport/CMakeFiles/INSTALL.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/Examples/CMakeFiles/INSTALL.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/Examples/PhoneMenu/CMakeFiles/PhoneMenu.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/Examples/PhoneMenu/CMakeFiles/INSTALL.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/Examples/Elevator/CMakeFiles/Elevator.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/Examples/Elevator/CMakeFiles/INSTALL.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/Examples/PhoneMenuXML/CMakeFiles/PhoneMenuXML.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/Examples/PhoneMenuXML/CMakeFiles/INSTALL.dir

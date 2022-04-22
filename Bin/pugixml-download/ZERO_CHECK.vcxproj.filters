@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\pugixml-download\CMakeFiles\8f871a206e45c06215a60b2628419cb2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B3F94E2B-1057-3114-ADBA-2BFCE4970751}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

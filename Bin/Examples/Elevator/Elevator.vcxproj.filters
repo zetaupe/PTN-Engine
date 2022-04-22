@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Examples\Elevator\Controller\ElevatorController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Examples\Elevator\Controller\ElevatorPetriNet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Examples\Elevator\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Examples\Elevator\Controller\ElevatorController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Examples\Elevator\Controller\ElevatorPetriNet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Examples\Elevator\Controller\IElevatorPetriNet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Examples\Elevator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F4B0699D-5C51-348D-A5BA-143465866B53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7F9B6ED2-71FB-3171-A8AA-01E94C0E943F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

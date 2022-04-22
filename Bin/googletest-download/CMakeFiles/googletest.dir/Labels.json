@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/googletest"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/721b139533188a97ee9807136f4ddbe7/googletest.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/5fce362362c6b53a9664b7534774dfc6/googletest-complete.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/d6ccf8c7ff9cc8249ad73233b431ea4f/googletest-build.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/d6ccf8c7ff9cc8249ad73233b431ea4f/googletest-configure.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/d6ccf8c7ff9cc8249ad73233b431ea4f/googletest-download.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/d6ccf8c7ff9cc8249ad73233b431ea4f/googletest-install.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/d6ccf8c7ff9cc8249ad73233b431ea4f/googletest-mkdir.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/d6ccf8c7ff9cc8249ad73233b431ea4f/googletest-patch.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/d6ccf8c7ff9cc8249ad73233b431ea4f/googletest-test.rule"
+		},
+		{
+			"file" : "D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/d6ccf8c7ff9cc8249ad73233b431ea4f/googletest-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}

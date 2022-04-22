@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\PTN_Engine\PTN_Engine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\PTN_Engine\PTN_EngineImp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\PTN_Engine\Place.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\PTN_Engine\Transition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\PTN_Engine\PTN_EngineImp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\PTN_Engine\Place.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\PTN_Engine\Transition.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\PTN_Engine\Utilities\DetectRepeated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\include\PTN_Engine\IExporter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\include\PTN_Engine\IImporter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\include\PTN_Engine\PTN_Engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\include\PTN_Engine\PTN_Exception.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\include\PTN_Engine\Utilities\Explicit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\include\PTN_Engine\Utilities\LockWeakPtr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\PTN_Engine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F4B0699D-5C51-348D-A5BA-143465866B53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7F9B6ED2-71FB-3171-A8AA-01E94C0E943F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

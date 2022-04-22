@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-download\CMakeFiles\d6ccf8c7ff9cc8249ad73233b431ea4f\googletest-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-download\CMakeFiles\d6ccf8c7ff9cc8249ad73233b431ea4f\googletest-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-download\CMakeFiles\d6ccf8c7ff9cc8249ad73233b431ea4f\googletest-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-download\CMakeFiles\d6ccf8c7ff9cc8249ad73233b431ea4f\googletest-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-download\CMakeFiles\d6ccf8c7ff9cc8249ad73233b431ea4f\googletest-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-download\CMakeFiles\d6ccf8c7ff9cc8249ad73233b431ea4f\googletest-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-download\CMakeFiles\d6ccf8c7ff9cc8249ad73233b431ea4f\googletest-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-download\CMakeFiles\d6ccf8c7ff9cc8249ad73233b431ea4f\googletest-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-download\CMakeFiles\5fce362362c6b53a9664b7534774dfc6\googletest-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-download\CMakeFiles\721b139533188a97ee9807136f4ddbe7\googletest.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-download\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-download\CMakeFiles\googletest" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F98D4D2C-DE82-34A1-B4A0-A57CBF858CDA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

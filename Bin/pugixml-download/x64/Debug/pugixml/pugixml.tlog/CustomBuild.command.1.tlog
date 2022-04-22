@@ -1,0 +1,150 @@
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\PUGIXML-DOWNLOAD\CMAKEFILES\9641496A6D0B720D3F70A900C6FE2492\PUGIXML-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/pugixml-prefix/tmp/pugixml-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/pugixml-prefix/src/pugixml-stamp/Debug/pugixml-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\PUGIXML-DOWNLOAD\CMAKEFILES\9641496A6D0B720D3F70A900C6FE2492\PUGIXML-DOWNLOAD.RULE
+setlocal
+cd D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/pugixml-prefix/tmp/pugixml-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/pugixml-prefix/src/pugixml-stamp/Debug/pugixml-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\PUGIXML-DOWNLOAD\CMAKEFILES\9641496A6D0B720D3F70A900C6FE2492\PUGIXML-UPDATE.RULE
+setlocal
+cd D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\pugixml-src
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/pugixml-prefix/tmp/pugixml-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\PUGIXML-DOWNLOAD\CMAKEFILES\9641496A6D0B720D3F70A900C6FE2492\PUGIXML-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/pugixml-prefix/src/pugixml-stamp/Debug/pugixml-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\PUGIXML-DOWNLOAD\CMAKEFILES\9641496A6D0B720D3F70A900C6FE2492\PUGIXML-CONFIGURE.RULE
+setlocal
+cd D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\pugixml-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/pugixml-prefix/src/pugixml-stamp/Debug/pugixml-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\PUGIXML-DOWNLOAD\CMAKEFILES\9641496A6D0B720D3F70A900C6FE2492\PUGIXML-BUILD.RULE
+setlocal
+cd D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\pugixml-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/pugixml-prefix/src/pugixml-stamp/Debug/pugixml-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\PUGIXML-DOWNLOAD\CMAKEFILES\9641496A6D0B720D3F70A900C6FE2492\PUGIXML-INSTALL.RULE
+setlocal
+cd D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\pugixml-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/pugixml-prefix/src/pugixml-stamp/Debug/pugixml-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\PUGIXML-DOWNLOAD\CMAKEFILES\9641496A6D0B720D3F70A900C6FE2492\PUGIXML-TEST.RULE
+setlocal
+cd D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\pugixml-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/pugixml-prefix/src/pugixml-stamp/Debug/pugixml-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\PUGIXML-DOWNLOAD\CMAKEFILES\76674D00AD792611361519E370FF55DE\PUGIXML-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/Debug/pugixml-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/pugixml-prefix/src/pugixml-stamp/Debug/pugixml-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\PUGIXML-DOWNLOAD\CMAKEFILES\8F871A206E45C06215A60B2628419CB2\PUGIXML.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\PUGIXML-DOWNLOAD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download -BD:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download --check-stamp-file D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

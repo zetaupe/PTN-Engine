@@ -1,0 +1,150 @@
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\GOOGLETEST-DOWNLOAD\CMAKEFILES\D6CCF8C7FF9CC8249AD73233B431EA4F\GOOGLETEST-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/googletest-prefix/tmp/googletest-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/googletest-prefix/src/googletest-stamp/Debug/googletest-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\GOOGLETEST-DOWNLOAD\CMAKEFILES\D6CCF8C7FF9CC8249AD73233B431EA4F\GOOGLETEST-DOWNLOAD.RULE
+setlocal
+cd D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/googletest-prefix/tmp/googletest-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/googletest-prefix/src/googletest-stamp/Debug/googletest-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\GOOGLETEST-DOWNLOAD\CMAKEFILES\D6CCF8C7FF9CC8249AD73233B431EA4F\GOOGLETEST-UPDATE.RULE
+setlocal
+cd D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-src
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/googletest-prefix/tmp/googletest-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\GOOGLETEST-DOWNLOAD\CMAKEFILES\D6CCF8C7FF9CC8249AD73233B431EA4F\GOOGLETEST-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/googletest-prefix/src/googletest-stamp/Debug/googletest-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\GOOGLETEST-DOWNLOAD\CMAKEFILES\D6CCF8C7FF9CC8249AD73233B431EA4F\GOOGLETEST-CONFIGURE.RULE
+setlocal
+cd D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/googletest-prefix/src/googletest-stamp/Debug/googletest-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\GOOGLETEST-DOWNLOAD\CMAKEFILES\D6CCF8C7FF9CC8249AD73233B431EA4F\GOOGLETEST-BUILD.RULE
+setlocal
+cd D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/googletest-prefix/src/googletest-stamp/Debug/googletest-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\GOOGLETEST-DOWNLOAD\CMAKEFILES\D6CCF8C7FF9CC8249AD73233B431EA4F\GOOGLETEST-INSTALL.RULE
+setlocal
+cd D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/googletest-prefix/src/googletest-stamp/Debug/googletest-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\GOOGLETEST-DOWNLOAD\CMAKEFILES\D6CCF8C7FF9CC8249AD73233B431EA4F\GOOGLETEST-TEST.RULE
+setlocal
+cd D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\googletest-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/googletest-prefix/src/googletest-stamp/Debug/googletest-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\GOOGLETEST-DOWNLOAD\CMAKEFILES\5FCE362362C6B53A9664B7534774DFC6\GOOGLETEST-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/Debug/googletest-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/googletest-prefix/src/googletest-stamp/Debug/googletest-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\GOOGLETEST-DOWNLOAD\CMAKEFILES\721B139533188A97EE9807136F4DDBE7\GOOGLETEST.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\GOOGLETEST-DOWNLOAD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download -BD:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download --check-stamp-file D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

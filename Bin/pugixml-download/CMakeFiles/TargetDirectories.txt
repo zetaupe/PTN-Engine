@@ -1,0 +1,3 @@
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/pugixml.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/ALL_BUILD.dir
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/ZERO_CHECK.dir

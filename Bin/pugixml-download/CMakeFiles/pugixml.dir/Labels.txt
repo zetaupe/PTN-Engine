@@ -1,0 +1,14 @@
+# Target labels
+ pugixml
+# Source files and their labels
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/pugixml
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/8f871a206e45c06215a60b2628419cb2/pugixml.rule
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/76674d00ad792611361519e370ff55de/pugixml-complete.rule
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-build.rule
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-configure.rule
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-download.rule
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-install.rule
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-mkdir.rule
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-patch.rule
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-test.rule
+D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/CMakeFiles/9641496a6d0b720d3f70a900c6fe2492/pugixml-update.rule

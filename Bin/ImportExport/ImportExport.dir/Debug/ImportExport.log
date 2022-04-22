@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/ImportExport/CMakeLists.txt
+  ExportFactory.cpp
+  ImportFactory.cpp
+  XML_Exporter.cpp
+  XML_Importer.cpp
+     Création de la bibliothèque D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/lib/Debug/ImportExport_d.lib et de l'objet D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/lib/Debug/ImportExport_d.exp
+  ImportExport.vcxproj -> D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\bin\Debug\ImportExport_d.dll

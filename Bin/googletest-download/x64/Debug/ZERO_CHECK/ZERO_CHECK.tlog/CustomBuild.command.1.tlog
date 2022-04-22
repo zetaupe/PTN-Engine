@@ -1,0 +1,10 @@
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\GOOGLETEST-DOWNLOAD\CMAKEFILES\721B139533188A97EE9807136F4DDBE7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download -BD:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/googletest-download/googletest-download.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

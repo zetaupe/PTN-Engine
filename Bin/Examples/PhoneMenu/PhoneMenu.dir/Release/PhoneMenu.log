@@ -1,0 +1,9 @@
+﻿  Building Custom Rule D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Examples/PhoneMenu/CMakeLists.txt
+  Controller.cpp
+  MenuStateMachine.cpp
+  CallLogView.cpp
+  MainMenuView.cpp
+  MessagesMenuView.cpp
+  main.cpp
+     Création de la bibliothèque D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/lib/Release/PhoneMenu.lib et de l'objet D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/lib/Release/PhoneMenu.exp
+  PhoneMenu.vcxproj -> D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\bin\Release\PhoneMenu.exe

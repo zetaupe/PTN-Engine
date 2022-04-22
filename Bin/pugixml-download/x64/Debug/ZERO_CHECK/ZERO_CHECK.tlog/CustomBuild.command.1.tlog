@@ -1,0 +1,10 @@
+^D:\_PROJECT\C++\EXTERNAL_LIB\PTN-ENGINE\BIN\PUGIXML-DOWNLOAD\CMAKEFILES\8F871A206E45C06215A60B2628419CB2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download -BD:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/pugixml-download/pugixml-download.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

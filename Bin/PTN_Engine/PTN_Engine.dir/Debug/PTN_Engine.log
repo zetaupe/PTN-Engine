@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/PTN_Engine/CMakeLists.txt
+  PTN_Engine.cpp
+  PTN_EngineImp.cpp
+  Place.cpp
+  Transition.cpp
+     Création de la bibliothèque D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/lib/Debug/PTN_Engine_d.lib et de l'objet D:/_PROJECT/C++/EXTERNAL_LIB/PTN-Engine/Bin/lib/Debug/PTN_Engine_d.exp
+  PTN_Engine.vcxproj -> D:\_PROJECT\C++\EXTERNAL_LIB\PTN-Engine\Bin\bin\Debug\PTN_Engine_d.dll
